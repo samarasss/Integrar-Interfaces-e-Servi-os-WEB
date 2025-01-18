@@ -1,0 +1,22 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Primeiro projeto da disciplina Integrar Interfaces e Serviços WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarasss/Integrar-Interfaces-e-Servi-os-WEB.git"
+  },
+  "author": "Samara Sampaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarasss/Integrar-Interfaces-e-Servi-os-WEB/issues"
+  },
+  "homepage": "https://github.com/samarasss/Integrar-Interfaces-e-Servi-os-WEB#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
